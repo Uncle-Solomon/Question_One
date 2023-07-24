@@ -52,12 +52,12 @@ makeFunc: A function that returns the appropriate function pointer based on the 
 
 #### Example Output
 The program will print the results of each arithmetic operation and the Fibonacci sequence:
-The results for this program should look like this:
+if the code runs properly after installation abd building, the results for this program should look like this:
 ```
 add : 16
 mul : 20
-sub : 4
-fibo : 3
+sub : -4
+fibo : 2
 ```
 #### Notes
 * The MAX_SIZE constant defines the maximum size for memoization in the Fibonacci function. This is to enforce the dynamic approach to implementing the fibonnaci sequence.
