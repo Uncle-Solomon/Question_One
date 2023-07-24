@@ -9,7 +9,10 @@ Make sure you have the following installed on your system:
 * C Compiler (e.g., GCC)
 
 ## How to Run
-* Clone or download the repository to your local machine.
+* Clone or download this repository to your local machine.
+  ```
+  https://github.com/Uncle-Solomon/Question_One.git
+  ```
 
 * Open a terminal or command prompt and navigate to the downloaded repository folder.
 
